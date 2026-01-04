@@ -1,0 +1,15 @@
+ .faq {
+  padding: 50px;
+ }
+
+ .answer {
+  display: none;
+ }
+
+ .answer.active {
+  display: block;
+ }
+
+ .question {
+  cursor: pointer;
+ }
